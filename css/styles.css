@@ -1,5 +1,6 @@
 #hope{
   margin-left:15em;
+  padding:15px;
 }
 h1{
   margin-left:8em;
@@ -16,3 +17,13 @@ h2{
 }
 body{
   background-image:url("http://www.photos-public-domain.com/wp-content/uploads/2013/11/bumpy-beige-plastic-texture.jpg");
+}
+div {
+  line-height:normal;
+}
+div {
+  line-height:1.6;
+}
+div{
+  line-height:80%;
+}
