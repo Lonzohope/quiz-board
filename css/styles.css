@@ -1,5 +1,6 @@
 #hope{
   margin-left:15em;
+  padding:15px;
 }
 h1{
   margin-left:8em;
@@ -9,10 +10,26 @@ img{
   height:15em;
   width:15em;
   margin-left:30%;
-  padding:15px;
+  padding:1px;
 }
 h2{
   color:red;
 }
 body{
-  background-image:url("http://www.photos-public-domain.com/wp-content/uploads/2013/11/bumpy-beige-plastic-texture.jpg");
+  background-image: url("https://www.crystalgraphicsimages.com/photo/test-icon-internet-button-white-background_cg1p39739582c_th.jpg");
+  background-size: cover;
+div {
+  line-height:normal;
+}
+div {
+  line-height:70%;
+}
+div{
+  line-height:80%;
+}
+div{
+  line-height:200%;
+}
+div{
+  line-height:200%;
+}
