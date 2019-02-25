@@ -25,15 +25,14 @@ var value10=parseInt(answer10);
 var give=(value1+value2+value3+value4+value5+value6+value7+value8+value9+value10)/50*100;
 document.getElementById("results").innerHTML="Total percentage="+ give + "%";
 
-if(give>50){
+if(give>= 80){
   alert("Excelent")
-
-  if((give<=50)){
+}
+  else if(give<=80 && give>=50){
     alert("Fair")
   }
 else{
   alert("Poor. Retake Test")
-}
 }
 event.preventDefault();
   });
