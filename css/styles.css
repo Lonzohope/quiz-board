@@ -18,13 +18,12 @@ h2{
 body{
   background-image: url("https://www.crystalgraphicsimages.com/photo/test-icon-internet-button-white-background_cg1p39739582c_th.jpg");
   background-size: cover;
-div {
-  line-height:normal;
-}
+
+
 div {
   line-height:70%;
 }
-div{
+div {
   line-height:80%;
 }
 div{
