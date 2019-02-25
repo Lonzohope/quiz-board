@@ -1,4 +1,4 @@
-# Triangle-tracker
+# Quiz-Board
 ####
 #### By ** Hope Mutheu **
 ## Description
